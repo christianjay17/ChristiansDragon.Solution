@@ -1,0 +1,11 @@
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/obj/Debug/netcoreapp2.2/Bakery.csprojAssemblyReference.cache
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/obj/Debug/netcoreapp2.2/Bakery.csproj.CoreCompileInputs.cache
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/obj/Debug/netcoreapp2.2/Bakery.AssemblyInfoInputs.cache
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/obj/Debug/netcoreapp2.2/Bakery.AssemblyInfo.cs
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/bin/Debug/netcoreapp2.2/Bakery.deps.json
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/bin/Debug/netcoreapp2.2/Bakery.runtimeconfig.json
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/bin/Debug/netcoreapp2.2/Bakery.runtimeconfig.dev.json
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/bin/Debug/netcoreapp2.2/Bakery.dll
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/bin/Debug/netcoreapp2.2/Bakery.pdb
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/obj/Debug/netcoreapp2.2/Bakery.dll
+/Users/nathanschrader/Desktop/Epicodus/ChristiansDragon.Solution/Bakery.Solution/Bakery/obj/Debug/netcoreapp2.2/Bakery.pdb
